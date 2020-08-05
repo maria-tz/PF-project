@@ -1,6 +1,6 @@
 # Project Future - ReGeneration - Data and Decision Sciences
 
-This is my team's project for the program Data and Decision Scieces offered by Code.Hub!
+This is my team's project for the program Data and Decision Sciences offered by Code.Hub!
 
 Under `data/` you will find the files we used for this project.
 
